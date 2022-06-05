@@ -3,9 +3,9 @@ Project Lead The Way robotics projects
 ## Searchlight
 The Spotlight Sidekick is changing Hide-and-Seek in the dark by adding a seeker's aide. Its headlights cut through the darkness, the hiders growing anxious as the wheels' mechanical whir and spotlights sweep closer and closer. Its lights flash upon a hider's discovery, as if to say, "Got you!" The hunted becomes the hunter as control is given to the one found. It is programmed with ROBOTC, a special type of C language used specifically for VEX Robotics parts. Collaborative project with Pedro Aguilar. 
 <p align="center">
-  <img src="./images/spotlighttop.jpg" alt="Spotlight Sidekick Top" width="32%">
-  <img src="./images/spotlightfront.jpg" alt="Spotlight Sidekick Front" width="32%">
-  <img src="./images/spotlightbottom.jpg" alt="Spotlight Sidekick Bottom" width="32%">
+  <img src="./images/searchlighttop.jpg" alt="Spotlight Sidekick Top" width="32%">
+  <img src="./images/searchlightfront.jpg" alt="Spotlight Sidekick Front" width="32%">
+  <img src="./images/searchlightbottom.jpg" alt="Spotlight Sidekick Bottom" width="32%">
 </p>
 
 
